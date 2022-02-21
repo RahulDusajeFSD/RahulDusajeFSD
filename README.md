@@ -1,16 +1,13 @@
-### Hi there 👋
+### My name is Rahul Dusaje and I'm a MuleSoft Developer! 👋
 
-<!--
-**RahulDusajeFSD/RahulDusajeFSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working at ... Apisero <br/>
+👯 I’m looking to collaborate on ... MuleSoft<br/>
+⚡ I also work on Spring Boot. <br/>
+⚡ Checkout my Salesforce [Blog](https://apisero.com/create-custom-objects-in-salesforce/) <br/>
+⚡ Checkout my Spring Boot [Blog](https://medium.com/@rahuldusaje) <br/>
+⚡ Checkout my Research Paper on [Home Automation](https://www.ijitee.org/wp-content/uploads/papers/v8i6/E3143038519.pdf)<br/>
+💬 Ask me on ... [MuleSoft Forum](https://help.mulesoft.com/s/profile/0052T00000CGXqMQAX)<br/>
+📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/feed/) <br/>
+😄 Pronouns: ... He/Him<br/>
