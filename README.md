@@ -2,7 +2,7 @@
 
 
 
-🔭 I’m currently working at ... Apisero <br/>
+🔭 Worked as Lead MuleSoft Engineer at ... Apisero <br/>
 👯 I’m looking to collaborate on ... MuleSoft<br/>
 ⚡ I also work on Spring Boot. <br/>
 ⚡ Checkout my Salesforce [Blog](https://apisero.com/create-custom-objects-in-salesforce/) <br/>
