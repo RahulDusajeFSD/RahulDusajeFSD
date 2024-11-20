@@ -1,4 +1,4 @@
-### My name is Rahul Dusaje and I'm a MuleSoft Developer | Salesforce Developer | Java Developer! 👋
+### I'm a Java Developer | MuleSoft Developer | Salesforce Developer ! 👋
 
 
 
