@@ -1,9 +1,9 @@
-### I'm a Java Developer | MuleSoft Developer | Salesforce Developer ! 👋
+### I'm a Java Developer | MuleSoft Developer | AWS Developer | Salesforce Developer ! 👋
 
 
 
 🔭 Worked as Lead MuleSoft Engineer at ... Apisero <br/>
-👯 I’m looking to collaborate on ... DevOps, MuleSoft, Salesforce<br/>
+👯 I collaborate on ... AWS, MuleSoft, Salesforce<br/>
 ⚡ I also work on Spring Boot. <br/>
 ⚡ Checkout my Salesforce [Blog](https://apisero.com/create-custom-objects-in-salesforce/) <br/>
 ⚡ Checkout my Spring Boot [Blog](https://medium.com/@rahuldusaje) <br/>
