@@ -1,5 +1,5 @@
-### I'm a Java Developer | MuleSoft Developer | AWS Developer | Salesforce Developer ! 👋
-
+### I'm a Java Developer | MuleSoft Developer | AWS Developer  👋
+### Software Engineer @ API People - Toronto, ON
 
 
 🔭 Worked as Lead MuleSoft Engineer at ... Apisero <br/>
